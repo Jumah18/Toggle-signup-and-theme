@@ -1,0 +1,27 @@
+.main-div {
+    width: 50%;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    #signup-span, #login-span {
+    color: blue;
+    cursor: pointer;
+    }
+
+    #dark-mode{
+        background-color: black;
+        border-radius: 10px;
+        color: white;
+        cursor: pointer;
+    }
+
+    #light-mode {
+        background-color: white;
+        color: black;
+        border-radius: 10px;
+        cursor: pointer;
+    }
